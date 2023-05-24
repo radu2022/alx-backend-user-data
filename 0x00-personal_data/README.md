@@ -1,7 +1,7 @@
 # 0x00. Personal data
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise  
-:copyright: **[alx Africa](https://www.holbertonschool.com/)**  
+:copyright: **[alx Africa](https://www.alxafrica.com/)**  
 :bookmark: database access | log filter | password encryption | personal data | personally identifiable information | pii | python | user data protection
 
 ## Resources

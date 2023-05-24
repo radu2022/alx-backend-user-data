@@ -1,6 +1,6 @@
 # Specializations
 ## alx-web_back_end
-### :copyright: **[alx Africa](https://www.holbertonschool.com/)**
+### :copyright: **[alx Africa](https://www.alxafrica.com/)**
 
 ## Projects
 :open_file_folder:
